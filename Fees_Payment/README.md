@@ -13,7 +13,6 @@ FIRST Download
 * Run the script http://localhost/School_Fees_Payment_Management_System
 
 
-> LOGIN DETAILS
-Admin
-user: admin
-pass: admin123  >
+> LOGIN DETAILS <br>
+username: admin  <br>
+pass: admin123  
