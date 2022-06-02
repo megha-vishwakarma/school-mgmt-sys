@@ -1,4 +1,4 @@
-#Steps to follow
+# Steps to follow
 
 FIRST Download
 
@@ -14,6 +14,6 @@ FIRST Download
 
 
 > LOGIN DETAILS
->Admin
->user: admin
->pass: admin123
+Admin
+user: admin
+pass: admin123  >
